@@ -23,7 +23,7 @@ Save the best-performing model for future predictions.
 
 📂 Dataset Description
 
-Dataset: Breast Cancer Survival Dataset
+Dataset: Breast Cancer Survival Dataset [https://www.kaggle.com/datasets/reihanenamdari/breast-cancer]
 
 The dataset contains demographic, clinical, and pathological information collected from breast cancer patients. Each record represents one patient, and the target variable indicates the patient's survival status.
 
