@@ -242,7 +242,6 @@ Data Analyst | Machine Learning Enthusiast | Python Developer
 
 🐙 GitHub: https://github.com/GhadaElfeki77 
 
-📊 Kaggle: https://www.kaggle.com/ghadaelfeki/breast-cancer-ml-project-gh
-
+📊 Kaggle:[https://www.kaggle.com/code/ghadaelfeki/notebookbreast-cancer-ml-project-gh]
 
 ⭐ If you found this project useful, consider giving the repository a star on GitHub!
